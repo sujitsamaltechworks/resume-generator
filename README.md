@@ -1,4 +1,4 @@
-# ResumeGen
+# ResumeGenerator
 ReactJS based Resume Generator which will generate personalized Resume in few minutes on your requirements.
 Live resume editor.
 
