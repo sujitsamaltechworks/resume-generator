@@ -1,2 +1,2 @@
 # resume-generator
-Generate you personalized resume.
+Get your personalized resume.
