@@ -50,7 +50,7 @@ const ResumePreview = () => {
 
             <VStack m={4} alignItems={"flex-start"} spacing={0.5}>
               <Heading as="h4" size="md">
-                {about.name ? about.name : "Jhon Doe"}
+                {about.name ? about.name : "Sujit Samal"}
               </Heading>
               <Text color={"gray.500"}>
                 {about.role ? about.role : "Full Stack Web Developer"}
@@ -66,15 +66,15 @@ const ResumePreview = () => {
           >
             <HStack spacing={1}>
               <MdMail />{" "}
-              <Text>{about.email ? about.email : "jhondoe@gmail.com"}</Text>
+              <Text>{about.email ? about.email : "sujitsamal@gmail.com"}</Text>
             </HStack>
             <HStack spacing={1}>
               <MdLocalPhone />{" "}
-              <Text>{about.phone ? about.phone : "+918559584846"}</Text>
+              <Text>{about.phone ? about.phone : "+916657892349"}</Text>
             </HStack>
             <HStack spacing={1}>
               <MdLocationPin />{" "}
-              <Text>{about.address ? about.address : "Pune, MH"}</Text>
+              <Text>{about.address ? about.address : "Bangalore, KA"}</Text>
             </HStack>
             <HStack spacing={1}>
               <RiLinkedinBoxFill />{" "}
